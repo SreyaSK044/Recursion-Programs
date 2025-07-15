@@ -58,5 +58,5 @@ Example:
 javac Factorial.java  
 java Factorial
 
-This collection is useful for beginners and students who want to practice recursion in Java.
+
 
